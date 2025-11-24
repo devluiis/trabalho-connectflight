@@ -1,4 +1,4 @@
-ConnectFlight – Página Inicial em React
+#ConnectFlight – Página Inicial em React
 
 Este projeto foi desenvolvido como atividade da disciplina Programação para Web II. A proposta foi reproduzir, em React, o layout de um protótipo do Figma, explorando componentização, estilização com Styled Components e navegação entre páginas.
 
@@ -8,7 +8,7 @@ A ideia é simples: apresentar ao usuário uma página inicial de viagens, com d
 
 🧩 Tecnologias utilizadas
 
-React + Vite
+*React + Vite
 
 React Router DOM
 
